@@ -25,4 +25,5 @@ Visualization: Pie/Donut Chart
 Description: Illustrates the proportion of EVs eligible for Clean Alternative Fuel Vehicle (CAFV) incentives.
 5) Top 10 Total Vehicles by Model:
 Visualization: Tree Map
+
 Description: Highlights popular EV models, offering insights into consumer preferences.
